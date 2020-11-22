@@ -1,3 +1,3 @@
 # README-images
 
-This is the repository for storing the images in the README file.
+This is the repository for storing the images in the README file of other repositories.
